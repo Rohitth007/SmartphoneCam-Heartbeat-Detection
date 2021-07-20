@@ -4,14 +4,18 @@ This is a project done as a part of the course Smart Sensing for IoT.
 It performs a time-domain and frequency domain analysis on data taken from a smartphone camera
 to figure out the pulse rate of a person. This is called PPG or Photoplethysmography.
 
-The detailed report can be found [here]() which essentially covers 4 aspects:
+The detailed report can be found [here](./Heartbeat_PPG__ED18B027_Report.pdf) which essentially covers 4 aspects:
 * Survey of existing PPG Apps
 * Generating Test Datasets.
   * Lighting (Bright, Normal, Dark)
   * Post Processing (Down Sampling, Quantization, Smoothening)
 * Sensing Algorithm.
   * Time Domain Analysis (Peak finding)
+  <img src='https://user-images.githubusercontent.com/64144419/126331330-c2578760-36ea-415e-aab1-b3e4c535dfdd.png' width=800>
+  
   * Frequency Domain Analysis (FFT)
+  <img src='https://user-images.githubusercontent.com/64144419/126331520-2d677f3a-d09a-4847-80d4-7db5dec1a6f0.png' width=800>
+
 * Evaluating Performance of the Algorithm
   * Effect of FPS
   * Effect of Resolution
