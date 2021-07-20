@@ -1,0 +1,3307 @@
+>> > python3 time_domain.py
+/home/rohitth007/Documents/IITM/IoT/6fps_300x300/10_afterlunch_normal_78.mp4
+
+Your heart is beating at 76.0 bpm.
+Press any enter to continue
+
+/home/rohitth007/Documents/IITM/IoT/6fps_300x300/1_evening_resting_normal_81.mp4
+
+Your heart is beating at 80.0 bpm.
+Press any enter to continue
+
+/home/rohitth007/Documents/IITM/IoT/6fps_300x300/2_afterdinner_normal_77.mp4
+
+Your heart is beating at 76.0 bpm.
+Press any enter to continue
+
+/home/rohitth007/Documents/IITM/IoT/6fps_300x300/3_morning_normal_77.mp4
+
+Your heart is beating at 76.0 bpm.
+Press any enter to continue
+
+/home/rohitth007/Documents/IITM/IoT/6fps_300x300/4_afternoon_normal_86.mp4
+
+Your heart is beating at 84.0 bpm.
+Press any enter to continue
+
+/home/rohitth007/Documents/IITM/IoT/6fps_300x300/5_afterdinner_normal_76.mp4
+
+Your heart is beating at 74.0 bpm.
+Press any enter to continue
+
+/home/rohitth007/Documents/IITM/IoT/6fps_300x300/6_morning_normal_78.mp4
+
+Your heart is beating at 76.0 bpm.
+Press any enter to continue
+
+/home/rohitth007/Documents/IITM/IoT/6fps_300x300/7_afterdinner_normal_86.mp4
+
+Your heart is beating at 80.0 bpm.
+Press any enter to continue
+
+/home/rohitth007/Documents/IITM/IoT/6fps_300x300/8_morning_normal_72.mp4
+
+Your heart is beating at 70.0 bpm.
+Press any enter to continue
+
+/home/rohitth007/Documents/IITM/IoT/6fps_300x300/9_afterdinner_normal_83.mp4
+
+Your heart is beating at 76.0 bpm.
+Press any enter to continue
+
+
+>> > python3 freq_domain.py
+/home/rohitth007/Documents/IITM/IoT/6fps_300x300/10_afterlunch_normal_78.mp4
+
+BPM in this window[1-30]: 84.0
+Avg BPM: 82.16632533502181
+
+BPM in this window[1-60]: 78.0
+Avg BPM: 77.74782572659132
+
+BPM in this window[1-90]: 76.0
+Avg BPM: 77.0377393912612
+
+BPM in this window[1-120]: 78.0
+Avg BPM: 77.5195958104242
+
+BPM in this window[1-150]: 76.8
+Avg BPM: 76.68710994452817
+
+BPM in this window[1-180]: 76.0
+Avg BPM: 76.22563469727399
+
+Your heart is beating at 76.22563469727399 bpm.
+Press any Enter to continue
+/home/rohitth007/Documents/IITM/IoT/6fps_300x300/1_evening_resting_normal_81.mp4
+
+BPM in this window[1-30]: 84.0
+Avg BPM: 83.83110144410148
+
+BPM in this window[1-60]: 78.0
+Avg BPM: 78.55493704555792
+
+BPM in this window[1-90]: 80.00000000000001
+Avg BPM: 79.45771704849348
+
+BPM in this window[1-120]: 81.0
+Avg BPM: 81.04472334476559
+
+BPM in this window[1-150]: 81.60000000000001
+Avg BPM: 81.14349216812383
+
+BPM in this window[1-180]: 80.00000000000001
+Avg BPM: 80.2779947197857
+
+Your heart is beating at 80.2779947197857 bpm.
+Press any Enter to continue
+/home/rohitth007/Documents/IITM/IoT/6fps_300x300/2_afterdinner_normal_77.mp4
+
+BPM in this window[1-30]: 84.0
+Avg BPM: 85.52753862839047
+
+BPM in this window[1-60]: 78.0
+Avg BPM: 77.71220117408961
+
+BPM in this window[1-90]: 76.0
+Avg BPM: 76.56244724462856
+
+BPM in this window[1-120]: 75.0
+Avg BPM: 75.49189348149132
+
+BPM in this window[1-150]: 76.8
+Avg BPM: 76.71871706991664
+
+BPM in this window[1-180]: 76.0
+Avg BPM: 76.21277141305659
+
+Your heart is beating at 76.21277141305659 bpm.
+Press any Enter to continue
+/home/rohitth007/Documents/IITM/IoT/6fps_300x300/3_morning_normal_77.mp4
+
+BPM in this window[1-30]: 72.00000000000001
+Avg BPM: 73.25282972973868
+
+BPM in this window[1-60]: 72.00000000000001
+Avg BPM: 73.6598645469329
+
+BPM in this window[1-90]: 76.0
+Avg BPM: 75.90089421435697
+
+BPM in this window[1-120]: 75.0
+Avg BPM: 75.28485855661536
+
+BPM in this window[1-150]: 76.8
+Avg BPM: 76.73788824782815
+
+BPM in this window[1-180]: 76.0
+Avg BPM: 76.01964602756144
+
+Your heart is beating at 76.01964602756144 bpm.
+Press any Enter to continue
+/home/rohitth007/Documents/IITM/IoT/6fps_300x300/4_afternoon_normal_86.mp4
+
+BPM in this window[1-30]: 84.0
+Avg BPM: 84.60151069017381
+
+BPM in this window[1-60]: 84.0
+Avg BPM: 83.2033103040801
+
+BPM in this window[1-90]: 80.00000000000001
+Avg BPM: 81.24159449396551
+
+BPM in this window[1-120]: 84.0
+Avg BPM: 84.0716086750468
+
+BPM in this window[1-150]: 84.0
+Avg BPM: 84.14488517574925
+
+BPM in this window[1-180]: 84.0
+Avg BPM: 84.15884595648517
+
+Your heart is beating at 84.15884595648517 bpm.
+Press any Enter to continue
+/home/rohitth007/Documents/IITM/IoT/6fps_300x300/5_afterdinner_normal_76.mp4
+
+BPM in this window[1-30]: 72.00000000000001
+Avg BPM: 72.39701149978927
+
+BPM in this window[1-60]: 72.00000000000001
+Avg BPM: 71.76936116043746
+
+BPM in this window[1-90]: 72.00000000000001
+Avg BPM: 73.02594131884089
+
+BPM in this window[1-120]: 75.0
+Avg BPM: 74.50788101210802
+
+BPM in this window[1-150]: 74.4
+Avg BPM: 74.06316314270006
+
+BPM in this window[1-180]: 74.0
+Avg BPM: 73.92395654274188
+
+Your heart is beating at 73.92395654274188 bpm.
+Press any Enter to continue
+/home/rohitth007/Documents/IITM/IoT/6fps_300x300/6_morning_normal_78.mp4
+
+BPM in this window[1-30]: 72.00000000000001
+Avg BPM: 74.82342338633669
+
+BPM in this window[1-60]: 78.0
+Avg BPM: 77.55460810127543
+
+BPM in this window[1-90]: 76.0
+Avg BPM: 76.16052241836069
+
+BPM in this window[1-120]: 75.0
+Avg BPM: 75.4369113245548
+
+BPM in this window[1-150]: 76.8
+Avg BPM: 76.36194089326871
+
+BPM in this window[1-180]: 76.0
+Avg BPM: 75.7421648527919
+
+Your heart is beating at 75.7421648527919 bpm.
+Press any Enter to continue
+/home/rohitth007/Documents/IITM/IoT/6fps_300x300/7_afterdinner_normal_86.mp4
+
+BPM in this window[1-30]: 84.0
+Avg BPM: 84.42093597292117
+
+BPM in this window[1-60]: 84.0
+Avg BPM: 84.14370773696805
+
+BPM in this window[1-90]: 84.0
+Avg BPM: 83.71819370574067
+
+BPM in this window[1-120]: 84.0
+Avg BPM: 83.51751461237495
+
+BPM in this window[1-150]: 84.0
+Avg BPM: 83.60562135567456
+
+BPM in this window[1-180]: 82.0
+Avg BPM: 82.18023835351664
+
+Your heart is beating at 82.18023835351664 bpm.
+Press any Enter to continue
+/home/rohitth007/Documents/IITM/IoT/6fps_300x300/8_morning_normal_72.mp4
+
+BPM in this window[1-30]: 84.0
+Avg BPM: 83.10725122657135
+
+BPM in this window[1-60]: 78.0
+Avg BPM: 77.66301866084856
+
+BPM in this window[1-90]: 72.00000000000001
+Avg BPM: 72.04949882260406
+
+BPM in this window[1-120]: 69.0
+Avg BPM: 69.70395161268024
+
+BPM in this window[1-150]: 69.60000000000001
+Avg BPM: 69.40150840207052
+
+BPM in this window[1-180]: 70.0
+Avg BPM: 69.42046817119338
+
+Your heart is beating at 69.42046817119338 bpm.
+Press any Enter to continue
+/home/rohitth007/Documents/IITM/IoT/6fps_300x300/9_afterdinner_normal_83.mp4
+
+BPM in this window[1-30]: 84.0
+Avg BPM: 83.26197403252262
+
+BPM in this window[1-60]: 84.0
+Avg BPM: 81.76373545515413
+
+BPM in this window[1-90]: 84.0
+Avg BPM: 83.44011845917872
+
+BPM in this window[1-120]: 72.00000000000001
+Avg BPM: 71.8991775443625
+
+BPM in this window[1-150]: 69.60000000000001
+Avg BPM: 70.01305236645473
+
+BPM in this window[1-180]: 76.0
+Avg BPM: 75.96252664573441
+
+Your heart is beating at 75.96252664573441 bpm.
+Press any Enter to continue
+
+
+>> > python3 time_domain.py
+/home/rohitth007/Documents/IITM/IoT/3fps_300x300/10_afterlunch_normal_78.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-15]: 72
+Average BPM: 72.0
+
+BPM in this window[14-30]: 84
+Average BPM: 78.0
+
+BPM in this window[29-45]: 72
+Average BPM: 76.0
+
+BPM in this window[44-60]: 72
+Average BPM: 75.0
+
+BPM in this window[59-75]: 72
+Average BPM: 74.4
+
+BPM in this window[74-90]: 72
+Average BPM: 74.0
+
+Your heart is beating at 74.0 bpm.
+Press any enter to continue
+/home/rohitth007/Documents/IITM/IoT/3fps_300x300/1_evening_resting_normal_81.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-15]: 60
+Average BPM: 60.0
+
+BPM in this window[14-30]: 72
+Average BPM: 66.0
+
+BPM in this window[29-45]: 72
+Average BPM: 68.0
+
+BPM in this window[44-60]: 84
+Average BPM: 72.0
+
+BPM in this window[59-75]: 72
+Average BPM: 72.0
+
+BPM in this window[74-90]: 60
+Average BPM: 70.0
+
+Your heart is beating at 70.0 bpm.
+Press any enter to continue
+/home/rohitth007/Documents/IITM/IoT/3fps_300x300/2_afterdinner_normal_77.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-15]: 72
+Average BPM: 72.0
+
+BPM in this window[14-30]: 72
+Average BPM: 72.0
+
+BPM in this window[29-45]: 60
+Average BPM: 68.0
+
+BPM in this window[44-60]: 84
+Average BPM: 72.0
+
+BPM in this window[59-75]: 72
+Average BPM: 72.0
+
+BPM in this window[74-90]: 60
+Average BPM: 70.0
+
+Your heart is beating at 70.0 bpm.
+Press any enter to continue
+/home/rohitth007/Documents/IITM/IoT/3fps_300x300/3_morning_normal_77.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-15]: 72
+Average BPM: 72.0
+
+BPM in this window[14-30]: 72
+Average BPM: 72.0
+
+BPM in this window[29-45]: 72
+Average BPM: 72.0
+
+BPM in this window[44-60]: 84
+Average BPM: 75.0
+
+BPM in this window[59-75]: 72
+Average BPM: 74.4
+
+BPM in this window[74-90]: 72
+Average BPM: 74.0
+
+Your heart is beating at 74.0 bpm.
+Press any enter to continue
+/home/rohitth007/Documents/IITM/IoT/3fps_300x300/4_afternoon_normal_86.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-15]: 72
+Average BPM: 72.0
+
+BPM in this window[14-30]: 84
+Average BPM: 78.0
+
+BPM in this window[29-45]: 84
+Average BPM: 80.0
+
+BPM in this window[44-60]: 84
+Average BPM: 81.0
+
+BPM in this window[59-75]: 84
+Average BPM: 81.6
+
+BPM in this window[74-90]: 84
+Average BPM: 82.0
+
+Your heart is beating at 82.0 bpm.
+Press any enter to continue
+/home/rohitth007/Documents/IITM/IoT/3fps_300x300/5_afterdinner_normal_76.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-15]: 72
+Average BPM: 72.0
+
+BPM in this window[14-30]: 60
+Average BPM: 66.0
+
+BPM in this window[29-45]: 72
+Average BPM: 68.0
+
+BPM in this window[44-60]: 60
+Average BPM: 66.0
+
+BPM in this window[59-75]: 72
+Average BPM: 67.2
+
+BPM in this window[74-90]: 60
+Average BPM: 66.0
+
+Your heart is beating at 66.0 bpm.
+Press any enter to continue
+/home/rohitth007/Documents/IITM/IoT/3fps_300x300/6_morning_normal_78.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-15]: 60
+Average BPM: 60.0
+
+BPM in this window[14-30]: 84
+Average BPM: 72.0
+
+BPM in this window[29-45]: 72
+Average BPM: 72.0
+
+BPM in this window[44-60]: 72
+Average BPM: 72.0
+
+BPM in this window[59-75]: 72
+Average BPM: 72.0
+
+BPM in this window[74-90]: 84
+Average BPM: 74.0
+
+Your heart is beating at 74.0 bpm.
+Press any enter to continue
+/home/rohitth007/Documents/IITM/IoT/3fps_300x300/7_afterdinner_normal_86.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-15]: 84
+Average BPM: 84.0
+
+BPM in this window[14-30]: 60
+Average BPM: 72.0
+
+BPM in this window[29-45]: 84
+Average BPM: 76.0
+
+BPM in this window[44-60]: 84
+Average BPM: 78.0
+
+BPM in this window[59-75]: 72
+Average BPM: 76.8
+
+BPM in this window[74-90]: 84
+Average BPM: 78.0
+
+Your heart is beating at 78.0 bpm.
+Press any enter to continue
+/home/rohitth007/Documents/IITM/IoT/3fps_300x300/8_morning_normal_72.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-15]: 72
+Average BPM: 72.0
+
+BPM in this window[14-30]: 72
+Average BPM: 72.0
+
+BPM in this window[29-45]: 60
+Average BPM: 68.0
+
+BPM in this window[44-60]: 72
+Average BPM: 69.0
+
+BPM in this window[59-75]: 60
+Average BPM: 67.2
+
+BPM in this window[74-90]: 72
+Average BPM: 68.0
+
+Your heart is beating at 68.0 bpm.
+Press any enter to continue
+/home/rohitth007/Documents/IITM/IoT/3fps_300x300/9_afterdinner_normal_83.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-15]: 72
+Average BPM: 72.0
+
+BPM in this window[14-30]: 72
+Average BPM: 72.0
+
+BPM in this window[29-45]: 72
+Average BPM: 72.0
+
+BPM in this window[44-60]: 60
+Average BPM: 69.0
+
+BPM in this window[59-75]: 84
+Average BPM: 72.0
+
+BPM in this window[74-90]: 72
+Average BPM: 72.0
+
+Your heart is beating at 72.0 bpm.
+Press any enter to continue
+
+
+>> > python3 freq_domain.py
+/home/rohitth007/Documents/IITM/IoT/3fps_300x300/10_afterlunch_normal_78.mp4
+
+BPM in this window[1-15]: 72.00000000000001
+Weighted Avg BPM: 72.00000000000001
+
+BPM in this window[1-30]: 78.0
+Weighted Avg BPM: 77.66817627298096
+
+BPM in this window[1-45]: 76.0
+Weighted Avg BPM: 77.65210825670006
+
+BPM in this window[1-60]: 78.0
+Weighted Avg BPM: 77.59012556214748
+
+BPM in this window[1-75]: 76.8
+Weighted Avg BPM: 76.4958088729442
+
+BPM in this window[1-90]: 76.0
+Weighted Avg BPM: 76.10895028820971
+
+Your heart is beating at 76.10895028820971 bpm.
+Press any Enter to continue
+/home/rohitth007/Documents/IITM/IoT/3fps_300x300/1_evening_resting_normal_81.mp4
+
+BPM in this window[1-15]: 72.00000000000001
+Weighted Avg BPM: 72.00000000000001
+
+BPM in this window[1-30]: 78.0
+Weighted Avg BPM: 78.37982439521159
+
+BPM in this window[1-45]: 80.00000000000001
+Weighted Avg BPM: 79.71003886283192
+
+BPM in this window[1-60]: 81.0
+Weighted Avg BPM: 81.33162414997058
+
+BPM in this window[1-75]: 81.60000000000001
+Weighted Avg BPM: 81.32998679494523
+
+BPM in this window[1-90]: 80.00000000000001
+Weighted Avg BPM: 80.24846717423048
+
+Your heart is beating at 80.24846717423048 bpm.
+Press any Enter to continue
+/home/rohitth007/Documents/IITM/IoT/3fps_300x300/2_afterdinner_normal_77.mp4
+
+BPM in this window[1-15]: 72.00000000000001
+Weighted Avg BPM: 72.00000000000001
+
+BPM in this window[1-30]: 78.0
+Weighted Avg BPM: 78.59287457442966
+
+BPM in this window[1-45]: 76.0
+Weighted Avg BPM: 76.87867370568064
+
+BPM in this window[1-60]: 75.0
+Weighted Avg BPM: 75.59991853080604
+
+BPM in this window[1-75]: 76.8
+Weighted Avg BPM: 77.08046171645177
+
+BPM in this window[1-90]: 76.0
+Weighted Avg BPM: 76.25132825998814
+
+Your heart is beating at 76.25132825998814 bpm.
+Press any Enter to continue
+/home/rohitth007/Documents/IITM/IoT/3fps_300x300/3_morning_normal_77.mp4
+
+BPM in this window[1-15]: 72.00000000000001
+Weighted Avg BPM: 72.00000000000001
+
+BPM in this window[1-30]: 72.00000000000001
+Weighted Avg BPM: 72.80444702184269
+
+BPM in this window[1-45]: 76.0
+Weighted Avg BPM: 75.9065873390226
+
+BPM in this window[1-60]: 75.0
+Weighted Avg BPM: 75.12255911449147
+
+BPM in this window[1-75]: 76.8
+Weighted Avg BPM: 76.63321010361642
+
+BPM in this window[1-90]: 76.0
+Weighted Avg BPM: 75.9748727203839
+
+Your heart is beating at 75.9748727203839 bpm.
+Press any Enter to continue
+/home/rohitth007/Documents/IITM/IoT/3fps_300x300/4_afternoon_normal_86.mp4
+
+BPM in this window[1-15]: 60.0
+Weighted Avg BPM: 56.64127968415399
+
+BPM in this window[1-30]: 84.0
+Weighted Avg BPM: 84.0
+
+BPM in this window[1-45]: 84.0
+Weighted Avg BPM: 84.0
+
+BPM in this window[1-60]: 84.0
+Weighted Avg BPM: 84.50822885325998
+
+BPM in this window[1-75]: 84.0
+Weighted Avg BPM: 84.2933840587575
+
+BPM in this window[1-90]: 84.0
+Weighted Avg BPM: 84.19631434484552
+
+Your heart is beating at 84.19631434484552 bpm.
+Press any Enter to continue
+/home/rohitth007/Documents/IITM/IoT/3fps_300x300/5_afterdinner_normal_76.mp4
+
+BPM in this window[1-15]: 72.00000000000001
+Weighted Avg BPM: 72.00000000000001
+
+BPM in this window[1-30]: 72.00000000000001
+Weighted Avg BPM: 71.08279084920314
+
+BPM in this window[1-45]: 72.00000000000001
+Weighted Avg BPM: 72.68701590461912
+
+BPM in this window[1-60]: 75.0
+Weighted Avg BPM: 74.30235324814723
+
+BPM in this window[1-75]: 74.4
+Weighted Avg BPM: 73.94979932619624
+
+BPM in this window[1-90]: 76.0
+Weighted Avg BPM: 75.50840531527513
+
+Your heart is beating at 75.50840531527513 bpm.
+Press any Enter to continue
+/home/rohitth007/Documents/IITM/IoT/3fps_300x300/6_morning_normal_78.mp4
+
+BPM in this window[1-15]: 72.00000000000001
+Weighted Avg BPM: 72.00000000000001
+
+BPM in this window[1-30]: 78.0
+Weighted Avg BPM: 77.57662617135499
+
+BPM in this window[1-45]: 76.0
+Weighted Avg BPM: 75.7061485878038
+
+BPM in this window[1-60]: 75.0
+Weighted Avg BPM: 74.68314161022363
+
+BPM in this window[1-75]: 74.4
+Weighted Avg BPM: 74.92421089256608
+
+BPM in this window[1-90]: 76.0
+Weighted Avg BPM: 75.91034728304328
+
+Your heart is beating at 75.91034728304328 bpm.
+Press any Enter to continue
+/home/rohitth007/Documents/IITM/IoT/3fps_300x300/7_afterdinner_normal_86.mp4
+
+BPM in this window[1-15]: 72.00000000000001
+Weighted Avg BPM: 72.00000000000001
+
+BPM in this window[1-30]: 84.0
+Weighted Avg BPM: 84.0
+
+BPM in this window[1-45]: 84.0
+Weighted Avg BPM: 84.0
+
+BPM in this window[1-60]: 84.0
+Weighted Avg BPM: 83.34261563260687
+
+BPM in this window[1-75]: 84.0
+Weighted Avg BPM: 83.50196136583878
+
+BPM in this window[1-90]: 82.0
+Weighted Avg BPM: 81.87624030060303
+
+Your heart is beating at 81.87624030060303 bpm.
+Press any Enter to continue
+/home/rohitth007/Documents/IITM/IoT/3fps_300x300/8_morning_normal_72.mp4
+
+BPM in this window[1-15]: 72.00000000000001
+Weighted Avg BPM: 72.00000000000001
+
+BPM in this window[1-30]: 72.00000000000001
+Weighted Avg BPM: 73.09433691285665
+
+BPM in this window[1-45]: 72.00000000000001
+Weighted Avg BPM: 71.84191494986513
+
+BPM in this window[1-60]: 72.00000000000001
+Weighted Avg BPM: 71.54958530781005
+
+BPM in this window[1-75]: 69.60000000000001
+Weighted Avg BPM: 69.54872804353552
+
+BPM in this window[1-90]: 70.0
+Weighted Avg BPM: 69.50621862308184
+
+Your heart is beating at 69.50621862308184 bpm.
+Press any Enter to continue
+/home/rohitth007/Documents/IITM/IoT/3fps_300x300/9_afterdinner_normal_83.mp4
+
+BPM in this window[1-15]: 72.00000000000001
+Weighted Avg BPM: 72.00000000000001
+
+BPM in this window[1-30]: 84.0
+Weighted Avg BPM: 84.0
+
+BPM in this window[1-45]: 72.00000000000001
+Weighted Avg BPM: 71.01567497584217
+
+BPM in this window[1-60]: 72.00000000000001
+Weighted Avg BPM: 72.36942456092433
+
+BPM in this window[1-75]: 72.00000000000001
+Weighted Avg BPM: 72.02147202957323
+
+BPM in this window[1-90]: 76.0
+Weighted Avg BPM: 76.09822769615018
+
+Your heart is beating at 76.09822769615018 bpm.
+Press any Enter to continue
+
+
+>> > python3 time_domain.py
+/home/rohitth007/Documents/IITM/IoT/10fps_150x150/10_afterlunch_normal_78.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-50]: 84
+Average BPM: 84.0
+
+BPM in this window[49-100]: 72
+Average BPM: 78.0
+
+BPM in this window[99-150]: 84
+Average BPM: 80.0
+
+BPM in this window[149-200]: 84
+Average BPM: 81.0
+
+BPM in this window[199-250]: 72
+Average BPM: 79.2
+
+BPM in this window[249-300]: 84
+Average BPM: 80.0
+
+Your heart is beating at 80.0 bpm.
+Press any enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_150x150/1_evening_resting_normal_81.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-50]: 84
+Average BPM: 84.0
+
+BPM in this window[49-100]: 96
+Average BPM: 90.0
+
+BPM in this window[99-150]: 84
+Average BPM: 88.0
+
+BPM in this window[149-200]: 84
+Average BPM: 87.0
+
+BPM in this window[199-250]: 84
+Average BPM: 86.4
+
+BPM in this window[249-300]: 72
+Average BPM: 84.0
+
+Your heart is beating at 84.0 bpm.
+Press any enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_150x150/2_afterdinner_normal_77.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-50]: 84
+Average BPM: 84.0
+
+BPM in this window[49-100]: 84
+Average BPM: 84.0
+
+BPM in this window[99-150]: 72
+Average BPM: 80.0
+
+BPM in this window[149-200]: 72
+Average BPM: 78.0
+
+BPM in this window[199-250]: 84
+Average BPM: 79.2
+
+BPM in this window[249-300]: 72
+Average BPM: 78.0
+
+Your heart is beating at 78.0 bpm.
+Press any enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_150x150/3_morning_normal_77.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-50]: 72
+Average BPM: 72.0
+
+BPM in this window[49-100]: 96
+Average BPM: 84.0
+
+BPM in this window[99-150]: 84
+Average BPM: 84.0
+
+BPM in this window[149-200]: 72
+Average BPM: 81.0
+
+BPM in this window[199-250]: 84
+Average BPM: 81.6
+
+BPM in this window[249-300]: 84
+Average BPM: 82.0
+
+Your heart is beating at 82.0 bpm.
+Press any enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_150x150/4_afternoon_normal_86.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-50]: 84
+Average BPM: 84.0
+
+BPM in this window[49-100]: 84
+Average BPM: 84.0
+
+BPM in this window[99-150]: 96
+Average BPM: 88.0
+
+BPM in this window[149-200]: 84
+Average BPM: 87.0
+
+BPM in this window[199-250]: 84
+Average BPM: 86.4
+
+BPM in this window[249-300]: 84
+Average BPM: 86.0
+
+Your heart is beating at 86.0 bpm.
+Press any enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_150x150/5_afterdinner_normal_76.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-50]: 72
+Average BPM: 72.0
+
+BPM in this window[49-100]: 72
+Average BPM: 72.0
+
+BPM in this window[99-150]: 84
+Average BPM: 76.0
+
+BPM in this window[149-200]: 84
+Average BPM: 78.0
+
+BPM in this window[199-250]: 72
+Average BPM: 76.8
+
+BPM in this window[249-300]: 72
+Average BPM: 76.0
+
+Your heart is beating at 76.0 bpm.
+Press any enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_150x150/6_morning_normal_78.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-50]: 84
+Average BPM: 84.0
+
+BPM in this window[49-100]: 72
+Average BPM: 78.0
+
+BPM in this window[99-150]: 84
+Average BPM: 80.0
+
+BPM in this window[149-200]: 84
+Average BPM: 81.0
+
+BPM in this window[199-250]: 84
+Average BPM: 81.6
+
+BPM in this window[249-300]: 84
+Average BPM: 82.0
+
+Your heart is beating at 82.0 bpm.
+Press any enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_150x150/7_afterdinner_normal_86.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-50]: 84
+Average BPM: 84.0
+
+BPM in this window[49-100]: 84
+Average BPM: 84.0
+
+BPM in this window[99-150]: 96
+Average BPM: 88.0
+
+BPM in this window[149-200]: 96
+Average BPM: 90.0
+
+BPM in this window[199-250]: 84
+Average BPM: 88.8
+
+BPM in this window[249-300]: 84
+Average BPM: 88.0
+
+Your heart is beating at 88.0 bpm.
+Press any enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_150x150/8_morning_normal_72.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-50]: 84
+Average BPM: 84.0
+
+BPM in this window[49-100]: 72
+Average BPM: 78.0
+
+BPM in this window[99-150]: 72
+Average BPM: 76.0
+
+BPM in this window[149-200]: 72
+Average BPM: 75.0
+
+BPM in this window[199-250]: 60
+Average BPM: 72.0
+
+BPM in this window[249-300]: 72
+Average BPM: 72.0
+
+Your heart is beating at 72.0 bpm.
+Press any enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_150x150/9_afterdinner_normal_83.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-50]: 72
+Average BPM: 72.0
+
+BPM in this window[49-100]: 72
+Average BPM: 72.0
+
+BPM in this window[99-150]: 72
+Average BPM: 72.0
+
+BPM in this window[149-200]: 84
+Average BPM: 75.0
+
+BPM in this window[199-250]: 72
+Average BPM: 74.4
+
+BPM in this window[249-300]: 84
+Average BPM: 76.0
+
+Your heart is beating at 76.0 bpm.
+Press any enter to continue
+
+>> > python3 freq_domain.py
+/home/rohitth007/Documents/IITM/IoT/10fps_150x150/10_afterlunch_normal_78.mp4
+
+BPM in this window[1-50]: 84.00000000000001
+Weighted Avg BPM: 80.75745459338907
+
+BPM in this window[1-100]: 78.0
+Weighted Avg BPM: 77.7325505442637
+
+BPM in this window[1-150]: 76.00000000000001
+Weighted Avg BPM: 77.01153474694696
+
+BPM in this window[1-200]: 78.0
+Weighted Avg BPM: 77.58298144802535
+
+BPM in this window[1-250]: 76.8
+Weighted Avg BPM: 76.69207778905678
+
+BPM in this window[1-300]: 76.00000000000001
+Weighted Avg BPM: 76.21279822550265
+
+Your heart is beating at 76.21279822550265 bpm.
+Press any Enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_150x150/1_evening_resting_normal_81.mp4
+
+BPM in this window[1-50]: 84.00000000000001
+Weighted Avg BPM: 85.59577113630166
+
+BPM in this window[1-100]: 78.0
+Weighted Avg BPM: 78.61369825076052
+
+BPM in this window[1-150]: 80.0
+Weighted Avg BPM: 79.58144444518669
+
+BPM in this window[1-200]: 81.0
+Weighted Avg BPM: 81.34546121514724
+
+BPM in this window[1-250]: 81.60000000000001
+Weighted Avg BPM: 81.12670515002146
+
+BPM in this window[1-300]: 80.0
+Weighted Avg BPM: 80.26674385518399
+
+Your heart is beating at 80.26674385518399 bpm.
+Press any Enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_150x150/2_afterdinner_normal_77.mp4
+
+BPM in this window[1-50]: 84.00000000000001
+Weighted Avg BPM: 84.66476527218065
+
+BPM in this window[1-100]: 78.0
+Weighted Avg BPM: 77.56013884150198
+
+BPM in this window[1-150]: 76.00000000000001
+Weighted Avg BPM: 76.5219814005994
+
+BPM in this window[1-200]: 75.0
+Weighted Avg BPM: 75.39511627018719
+
+BPM in this window[1-250]: 76.8
+Weighted Avg BPM: 76.66528042843888
+
+BPM in this window[1-300]: 76.00000000000001
+Weighted Avg BPM: 76.21556159283199
+
+Your heart is beating at 76.21556159283199 bpm.
+Press any Enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_150x150/3_morning_normal_77.mp4
+
+BPM in this window[1-50]: 72.0
+Weighted Avg BPM: 73.19886224139805
+
+BPM in this window[1-100]: 72.0
+Weighted Avg BPM: 73.73702666424504
+
+BPM in this window[1-150]: 76.00000000000001
+Weighted Avg BPM: 75.86283403255061
+
+BPM in this window[1-200]: 75.0
+Weighted Avg BPM: 75.23749543797479
+
+BPM in this window[1-250]: 76.8
+Weighted Avg BPM: 76.7192794682054
+
+BPM in this window[1-300]: 76.00000000000001
+Weighted Avg BPM: 76.04613686189512
+
+Your heart is beating at 76.04613686189512 bpm.
+Press any Enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_150x150/4_afternoon_normal_86.mp4
+
+BPM in this window[1-50]: 84.00000000000001
+Weighted Avg BPM: 82.70549104930046
+
+BPM in this window[1-100]: 84.00000000000001
+Weighted Avg BPM: 82.96350294644719
+
+BPM in this window[1-150]: 80.0
+Weighted Avg BPM: 80.91331469966686
+
+BPM in this window[1-200]: 84.00000000000001
+Weighted Avg BPM: 83.99471603967112
+
+BPM in this window[1-250]: 84.00000000000001
+Weighted Avg BPM: 84.18585793588154
+
+BPM in this window[1-300]: 84.00000000000001
+Weighted Avg BPM: 84.20658652536453
+
+Your heart is beating at 84.20658652536453 bpm.
+Press any Enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_150x150/5_afterdinner_normal_76.mp4
+
+BPM in this window[1-50]: 72.0
+Weighted Avg BPM: 72.49454614427316
+
+BPM in this window[1-100]: 72.0
+Weighted Avg BPM: 72.38003810983557
+
+BPM in this window[1-150]: 72.00000000000001
+Weighted Avg BPM: 73.27240552034465
+
+BPM in this window[1-200]: 75.0
+Weighted Avg BPM: 74.23496619111783
+
+BPM in this window[1-250]: 74.4
+Weighted Avg BPM: 73.92706145082225
+
+BPM in this window[1-300]: 72.00000000000001
+Weighted Avg BPM: 72.3717062808003
+
+Your heart is beating at 72.3717062808003 bpm.
+Press any Enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_150x150/6_morning_normal_78.mp4
+
+BPM in this window[1-50]: 84.00000000000001
+Weighted Avg BPM: 82.45339436081576
+
+BPM in this window[1-100]: 78.0
+Weighted Avg BPM: 77.58388796048683
+
+BPM in this window[1-150]: 76.00000000000001
+Weighted Avg BPM: 76.38719658358997
+
+BPM in this window[1-200]: 75.0
+Weighted Avg BPM: 75.5276409285083
+
+BPM in this window[1-250]: 76.8
+Weighted Avg BPM: 76.53242253443891
+
+BPM in this window[1-300]: 76.00000000000001
+Weighted Avg BPM: 75.84509623559168
+
+Your heart is beating at 75.84509623559168 bpm.
+Press any Enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_150x150/7_afterdinner_normal_86.mp4
+
+BPM in this window[1-50]: 84.00000000000001
+Weighted Avg BPM: 83.43329228965199
+
+BPM in this window[1-100]: 84.00000000000001
+Weighted Avg BPM: 84.21475024883804
+
+BPM in this window[1-150]: 84.00000000000001
+Weighted Avg BPM: 83.84487770962829
+
+BPM in this window[1-200]: 84.00000000000001
+Weighted Avg BPM: 83.52410078208753
+
+BPM in this window[1-250]: 84.00000000000001
+Weighted Avg BPM: 83.49792905084458
+
+BPM in this window[1-300]: 82.00000000000001
+Weighted Avg BPM: 82.27670199809145
+
+Your heart is beating at 82.27670199809145 bpm.
+Press any Enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_150x150/8_morning_normal_72.mp4
+
+BPM in this window[1-50]: 84.00000000000001
+Weighted Avg BPM: 83.61280069720904
+
+BPM in this window[1-100]: 78.0
+Weighted Avg BPM: 77.94628117008389
+
+BPM in this window[1-150]: 72.00000000000001
+Weighted Avg BPM: 72.16115446287036
+
+BPM in this window[1-200]: 69.00000000000001
+Weighted Avg BPM: 69.55771514763808
+
+BPM in this window[1-250]: 69.60000000000001
+Weighted Avg BPM: 69.30284480314785
+
+BPM in this window[1-300]: 70.0
+Weighted Avg BPM: 69.35849350487084
+
+Your heart is beating at 69.35849350487084 bpm.
+Press any Enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_150x150/9_afterdinner_normal_83.mp4
+
+BPM in this window[1-50]: 84.00000000000001
+Weighted Avg BPM: 85.03599157331247
+
+BPM in this window[1-100]: 78.0
+Weighted Avg BPM: 77.99457616713093
+
+BPM in this window[1-150]: 72.00000000000001
+Weighted Avg BPM: 70.39845560517674
+
+BPM in this window[1-200]: 72.0
+Weighted Avg BPM: 71.6928268173067
+
+BPM in this window[1-250]: 69.60000000000001
+Weighted Avg BPM: 70.24934106091072
+
+BPM in this window[1-300]: 70.0
+Weighted Avg BPM: 70.43561766127918
+
+Your heart is beating at 70.43561766127918 bpm.
+Press any Enter to continue
+
+>> > python3 time_domain.py
+/home/rohitth007/Documents/IITM/IoT/6fps_150x150/10_afterlunch_normal_78.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-30]: 84
+Average BPM: 84.0
+
+BPM in this window[29-60]: 72
+Average BPM: 78.0
+
+BPM in this window[59-90]: 84
+Average BPM: 80.0
+
+BPM in this window[89-120]: 72
+Average BPM: 78.0
+
+BPM in this window[119-150]: 72
+Average BPM: 76.8
+
+BPM in this window[149-180]: 72
+Average BPM: 76.0
+
+Your heart is beating at 76.0 bpm.
+Press any enter to continue
+/home/rohitth007/Documents/IITM/IoT/6fps_150x150/1_evening_resting_normal_81.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-30]: 84
+Average BPM: 84.0
+
+BPM in this window[29-60]: 72
+Average BPM: 78.0
+
+BPM in this window[59-90]: 84
+Average BPM: 80.0
+
+BPM in this window[89-120]: 84
+Average BPM: 81.0
+
+BPM in this window[119-150]: 84
+Average BPM: 81.6
+
+BPM in this window[149-180]: 72
+Average BPM: 80.0
+
+Your heart is beating at 80.0 bpm.
+Press any enter to continue
+/home/rohitth007/Documents/IITM/IoT/6fps_150x150/2_afterdinner_normal_77.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-30]: 84
+Average BPM: 84.0
+
+BPM in this window[29-60]: 72
+Average BPM: 78.0
+
+BPM in this window[59-90]: 72
+Average BPM: 76.0
+
+BPM in this window[89-120]: 72
+Average BPM: 75.0
+
+BPM in this window[119-150]: 84
+Average BPM: 76.8
+
+BPM in this window[149-180]: 60
+Average BPM: 74.0
+
+Your heart is beating at 74.0 bpm.
+Press any enter to continue
+/home/rohitth007/Documents/IITM/IoT/6fps_150x150/3_morning_normal_77.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-30]: 72
+Average BPM: 72.0
+
+BPM in this window[29-60]: 84
+Average BPM: 78.0
+
+BPM in this window[59-90]: 72
+Average BPM: 76.0
+
+BPM in this window[89-120]: 84
+Average BPM: 78.0
+
+BPM in this window[119-150]: 72
+Average BPM: 76.8
+
+BPM in this window[149-180]: 72
+Average BPM: 76.0
+
+Your heart is beating at 76.0 bpm.
+Press any enter to continue
+/home/rohitth007/Documents/IITM/IoT/6fps_150x150/4_afternoon_normal_86.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-30]: 84
+Average BPM: 84.0
+
+BPM in this window[29-60]: 84
+Average BPM: 84.0
+
+BPM in this window[59-90]: 84
+Average BPM: 84.0
+
+BPM in this window[89-120]: 84
+Average BPM: 84.0
+
+BPM in this window[119-150]: 84
+Average BPM: 84.0
+
+BPM in this window[149-180]: 84
+Average BPM: 84.0
+
+Your heart is beating at 84.0 bpm.
+Press any enter to continue
+/home/rohitth007/Documents/IITM/IoT/6fps_150x150/5_afterdinner_normal_76.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-30]: 72
+Average BPM: 72.0
+
+BPM in this window[29-60]: 72
+Average BPM: 72.0
+
+BPM in this window[59-90]: 84
+Average BPM: 76.0
+
+BPM in this window[89-120]: 72
+Average BPM: 75.0
+
+BPM in this window[119-150]: 72
+Average BPM: 74.4
+
+BPM in this window[149-180]: 60
+Average BPM: 72.0
+
+Your heart is beating at 72.0 bpm.
+Press any enter to continue
+/home/rohitth007/Documents/IITM/IoT/6fps_150x150/6_morning_normal_78.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-30]: 72
+Average BPM: 72.0
+
+BPM in this window[29-60]: 72
+Average BPM: 72.0
+
+BPM in this window[59-90]: 84
+Average BPM: 76.0
+
+BPM in this window[89-120]: 72
+Average BPM: 75.0
+
+BPM in this window[119-150]: 72
+Average BPM: 74.4
+
+BPM in this window[149-180]: 84
+Average BPM: 76.0
+
+Your heart is beating at 76.0 bpm.
+Press any enter to continue
+/home/rohitth007/Documents/IITM/IoT/6fps_150x150/7_afterdinner_normal_86.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-30]: 84
+Average BPM: 84.0
+
+BPM in this window[29-60]: 84
+Average BPM: 84.0
+
+BPM in this window[59-90]: 84
+Average BPM: 84.0
+
+BPM in this window[89-120]: 72
+Average BPM: 81.0
+
+BPM in this window[119-150]: 84
+Average BPM: 81.6
+
+BPM in this window[149-180]: 84
+Average BPM: 82.0
+
+Your heart is beating at 82.0 bpm.
+Press any enter to continue
+/home/rohitth007/Documents/IITM/IoT/6fps_150x150/8_morning_normal_72.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-30]: 72
+Average BPM: 72.0
+
+BPM in this window[29-60]: 72
+Average BPM: 72.0
+
+BPM in this window[59-90]: 72
+Average BPM: 72.0
+
+BPM in this window[89-120]: 72
+Average BPM: 72.0
+
+BPM in this window[119-150]: 60
+Average BPM: 69.6
+
+BPM in this window[149-180]: 72
+Average BPM: 70.0
+
+Your heart is beating at 70.0 bpm.
+Press any enter to continue
+/home/rohitth007/Documents/IITM/IoT/6fps_150x150/9_afterdinner_normal_83.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-30]: 84
+Average BPM: 84.0
+
+BPM in this window[29-60]: 72
+Average BPM: 78.0
+
+BPM in this window[59-90]: 72
+Average BPM: 76.0
+
+BPM in this window[89-120]: 72
+Average BPM: 75.0
+
+BPM in this window[119-150]: 72
+Average BPM: 74.4
+
+BPM in this window[149-180]: 84
+Average BPM: 76.0
+
+Your heart is beating at 76.0 bpm.
+Press any enter to continue
+
+
+>> > python3 freq_domain.py
+/home/rohitth007/Documents/IITM/IoT/6fps_150x150/10_afterlunch_normal_78.mp4
+
+BPM in this window[1-30]: 84.0
+Weighted Avg BPM: 82.26854876399238
+
+BPM in this window[1-60]: 78.0
+Weighted Avg BPM: 77.63406293147375
+
+BPM in this window[1-90]: 76.0
+Weighted Avg BPM: 77.01237901938623
+
+BPM in this window[1-120]: 78.0
+Weighted Avg BPM: 77.48445265457248
+
+BPM in this window[1-150]: 76.8
+Weighted Avg BPM: 76.67659706381869
+
+BPM in this window[1-180]: 76.0
+Weighted Avg BPM: 76.20072176661208
+
+Your heart is beating at 76.20072176661208 bpm.
+Press any Enter to continue
+/home/rohitth007/Documents/IITM/IoT/6fps_150x150/1_evening_resting_normal_81.mp4
+
+BPM in this window[1-30]: 84.0
+Weighted Avg BPM: 84.97520173672937
+
+BPM in this window[1-60]: 78.0
+Weighted Avg BPM: 78.25483248784595
+
+BPM in this window[1-90]: 80.00000000000001
+Weighted Avg BPM: 79.54256890752669
+
+BPM in this window[1-120]: 81.0
+Weighted Avg BPM: 81.07123706119728
+
+BPM in this window[1-150]: 81.60000000000001
+Weighted Avg BPM: 81.23813581826593
+
+BPM in this window[1-180]: 80.00000000000001
+Weighted Avg BPM: 80.28976601307032
+
+Your heart is beating at 80.28976601307032 bpm.
+Press any Enter to continue
+/home/rohitth007/Documents/IITM/IoT/6fps_150x150/2_afterdinner_normal_77.mp4
+
+BPM in this window[1-30]: 84.0
+Weighted Avg BPM: 85.44365843367865
+
+BPM in this window[1-60]: 78.0
+Weighted Avg BPM: 77.74709838212938
+
+BPM in this window[1-90]: 76.0
+Weighted Avg BPM: 76.50367075676182
+
+BPM in this window[1-120]: 75.0
+Weighted Avg BPM: 75.45643249653965
+
+BPM in this window[1-150]: 76.8
+Weighted Avg BPM: 76.68757739883165
+
+BPM in this window[1-180]: 76.0
+Weighted Avg BPM: 76.15435033809449
+
+Your heart is beating at 76.15435033809449 bpm.
+Press any Enter to continue
+/home/rohitth007/Documents/IITM/IoT/6fps_150x150/3_morning_normal_77.mp4
+
+BPM in this window[1-30]: 72.00000000000001
+Weighted Avg BPM: 73.25166297259726
+
+BPM in this window[1-60]: 72.00000000000001
+Weighted Avg BPM: 73.52882025775764
+
+BPM in this window[1-90]: 76.0
+Weighted Avg BPM: 75.73076234858218
+
+BPM in this window[1-120]: 75.0
+Weighted Avg BPM: 75.27658350094269
+
+BPM in this window[1-150]: 76.8
+Weighted Avg BPM: 76.67047813542094
+
+BPM in this window[1-180]: 76.0
+Weighted Avg BPM: 76.00295950439192
+
+Your heart is beating at 76.00295950439192 bpm.
+Press any Enter to continue
+/home/rohitth007/Documents/IITM/IoT/6fps_150x150/4_afternoon_normal_86.mp4
+
+BPM in this window[1-30]: 84.0
+Weighted Avg BPM: 84.80535899098552
+
+BPM in this window[1-60]: 84.0
+Weighted Avg BPM: 83.12793677087211
+
+BPM in this window[1-90]: 84.0
+Weighted Avg BPM: 83.15294684241363
+
+BPM in this window[1-120]: 84.0
+Weighted Avg BPM: 84.09713864947224
+
+BPM in this window[1-150]: 84.0
+Weighted Avg BPM: 84.16837316681597
+
+BPM in this window[1-180]: 84.0
+Weighted Avg BPM: 84.1683405328563
+
+Your heart is beating at 84.1683405328563 bpm.
+Press any Enter to continue
+/home/rohitth007/Documents/IITM/IoT/6fps_150x150/5_afterdinner_normal_76.mp4
+
+BPM in this window[1-30]: 72.00000000000001
+Weighted Avg BPM: 72.67795168087292
+
+BPM in this window[1-60]: 72.00000000000001
+Weighted Avg BPM: 71.75759539037455
+
+BPM in this window[1-90]: 72.00000000000001
+Weighted Avg BPM: 73.07082053512804
+
+BPM in this window[1-120]: 75.0
+Weighted Avg BPM: 74.47018127635472
+
+BPM in this window[1-150]: 74.4
+Weighted Avg BPM: 74.02369528422649
+
+BPM in this window[1-180]: 74.0
+Weighted Avg BPM: 73.89822183693983
+
+Your heart is beating at 73.89822183693983 bpm.
+Press any Enter to continue
+/home/rohitth007/Documents/IITM/IoT/6fps_150x150/6_morning_normal_78.mp4
+
+BPM in this window[1-30]: 72.00000000000001
+Weighted Avg BPM: 74.56732862771719
+
+BPM in this window[1-60]: 78.0
+Weighted Avg BPM: 77.53703409337402
+
+BPM in this window[1-90]: 76.0
+Weighted Avg BPM: 76.06403509924024
+
+BPM in this window[1-120]: 75.0
+Weighted Avg BPM: 75.54392478042935
+
+BPM in this window[1-150]: 76.8
+Weighted Avg BPM: 76.3318801300684
+
+BPM in this window[1-180]: 76.0
+Weighted Avg BPM: 75.7271128326651
+
+Your heart is beating at 75.7271128326651 bpm.
+Press any Enter to continue
+/home/rohitth007/Documents/IITM/IoT/6fps_150x150/7_afterdinner_normal_86.mp4
+
+BPM in this window[1-30]: 84.0
+Weighted Avg BPM: 85.06321773384002
+
+BPM in this window[1-60]: 84.0
+Weighted Avg BPM: 84.17175375020133
+
+BPM in this window[1-90]: 84.0
+Weighted Avg BPM: 83.60592065877356
+
+BPM in this window[1-120]: 84.0
+Weighted Avg BPM: 83.67269372761461
+
+BPM in this window[1-150]: 84.0
+Weighted Avg BPM: 83.70492346549999
+
+BPM in this window[1-180]: 82.0
+Weighted Avg BPM: 82.18389246451369
+
+Your heart is beating at 82.18389246451369 bpm.
+Press any Enter to continue
+/home/rohitth007/Documents/IITM/IoT/6fps_150x150/8_morning_normal_72.mp4
+
+BPM in this window[1-30]: 84.0
+Weighted Avg BPM: 83.4133442297498
+
+BPM in this window[1-60]: 78.0
+Weighted Avg BPM: 77.7302431939138
+
+BPM in this window[1-90]: 72.00000000000001
+Weighted Avg BPM: 72.03734776598075
+
+BPM in this window[1-120]: 69.0
+Weighted Avg BPM: 69.68021852580742
+
+BPM in this window[1-150]: 69.60000000000001
+Weighted Avg BPM: 69.39217369523595
+
+BPM in this window[1-180]: 70.0
+Weighted Avg BPM: 69.41273866246088
+
+Your heart is beating at 69.41273866246088 bpm.
+Press any Enter to continue
+/home/rohitth007/Documents/IITM/IoT/6fps_150x150/9_afterdinner_normal_83.mp4
+
+BPM in this window[1-30]: 84.0
+Weighted Avg BPM: 82.95788931735825
+
+BPM in this window[1-60]: 84.0
+Weighted Avg BPM: 81.90649444074855
+
+BPM in this window[1-90]: 84.0
+Weighted Avg BPM: 83.50592456959453
+
+BPM in this window[1-120]: 72.00000000000001
+Weighted Avg BPM: 71.88484082522153
+
+BPM in this window[1-150]: 69.60000000000001
+Weighted Avg BPM: 69.91638752391712
+
+BPM in this window[1-180]: 76.0
+Weighted Avg BPM: 76.01622095317484
+
+Your heart is beating at 76.01622095317484 bpm.
+Press any Enter to continue
+
+
+>> > python3 time_domain.py
+/home/rohitth007/Documents/IITM/IoT/3fps_150x150/10_afterlunch_normal_78.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-15]: 72
+Average BPM: 72.0
+
+BPM in this window[14-30]: 84
+Average BPM: 78.0
+
+BPM in this window[29-45]: 72
+Average BPM: 76.0
+
+BPM in this window[44-60]: 72
+Average BPM: 75.0
+
+BPM in this window[59-75]: 72
+Average BPM: 74.4
+
+BPM in this window[74-90]: 72
+Average BPM: 74.0
+
+Your heart is beating at 74.0 bpm.
+Press any enter to continue
+/home/rohitth007/Documents/IITM/IoT/3fps_150x150/1_evening_resting_normal_81.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-15]: 48
+Average BPM: 48.0
+
+BPM in this window[14-30]: 72
+Average BPM: 60.0
+
+BPM in this window[29-45]: 72
+Average BPM: 64.0
+
+BPM in this window[44-60]: 72
+Average BPM: 66.0
+
+BPM in this window[59-75]: 60
+Average BPM: 64.8
+
+BPM in this window[74-90]: 72
+Average BPM: 66.0
+
+Your heart is beating at 66.0 bpm.
+Press any enter to continue
+/home/rohitth007/Documents/IITM/IoT/3fps_150x150/2_afterdinner_normal_77.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-15]: 72
+Average BPM: 72.0
+
+BPM in this window[14-30]: 72
+Average BPM: 72.0
+
+BPM in this window[29-45]: 60
+Average BPM: 68.0
+
+BPM in this window[44-60]: 84
+Average BPM: 72.0
+
+BPM in this window[59-75]: 72
+Average BPM: 72.0
+
+BPM in this window[74-90]: 60
+Average BPM: 70.0
+
+Your heart is beating at 70.0 bpm.
+Press any enter to continue
+/home/rohitth007/Documents/IITM/IoT/3fps_150x150/3_morning_normal_77.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-15]: 72
+Average BPM: 72.0
+
+BPM in this window[14-30]: 72
+Average BPM: 72.0
+
+BPM in this window[29-45]: 72
+Average BPM: 72.0
+
+BPM in this window[44-60]: 84
+Average BPM: 75.0
+
+BPM in this window[59-75]: 72
+Average BPM: 74.4
+
+BPM in this window[74-90]: 72
+Average BPM: 74.0
+
+Your heart is beating at 74.0 bpm.
+Press any enter to continue
+/home/rohitth007/Documents/IITM/IoT/3fps_150x150/4_afternoon_normal_86.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-15]: 72
+Average BPM: 72.0
+
+BPM in this window[14-30]: 84
+Average BPM: 78.0
+
+BPM in this window[29-45]: 84
+Average BPM: 80.0
+
+BPM in this window[44-60]: 84
+Average BPM: 81.0
+
+BPM in this window[59-75]: 72
+Average BPM: 79.2
+
+BPM in this window[74-90]: 84
+Average BPM: 80.0
+
+Your heart is beating at 80.0 bpm.
+Press any enter to continue
+/home/rohitth007/Documents/IITM/IoT/3fps_150x150/5_afterdinner_normal_76.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-15]: 72
+Average BPM: 72.0
+
+BPM in this window[14-30]: 60
+Average BPM: 66.0
+
+BPM in this window[29-45]: 72
+Average BPM: 68.0
+
+BPM in this window[44-60]: 60
+Average BPM: 66.0
+
+BPM in this window[59-75]: 72
+Average BPM: 67.2
+
+BPM in this window[74-90]: 60
+Average BPM: 66.0
+
+Your heart is beating at 66.0 bpm.
+Press any enter to continue
+/home/rohitth007/Documents/IITM/IoT/3fps_150x150/6_morning_normal_78.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-15]: 48
+Average BPM: 48.0
+
+BPM in this window[14-30]: 72
+Average BPM: 60.0
+
+BPM in this window[29-45]: 72
+Average BPM: 64.0
+
+BPM in this window[44-60]: 72
+Average BPM: 66.0
+
+BPM in this window[59-75]: 72
+Average BPM: 67.2
+
+BPM in this window[74-90]: 84
+Average BPM: 70.0
+
+Your heart is beating at 70.0 bpm.
+Press any enter to continue
+/home/rohitth007/Documents/IITM/IoT/3fps_150x150/7_afterdinner_normal_86.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-15]: 72
+Average BPM: 72.0
+
+BPM in this window[14-30]: 60
+Average BPM: 66.0
+
+BPM in this window[29-45]: 72
+Average BPM: 68.0
+
+BPM in this window[44-60]: 72
+Average BPM: 69.0
+
+BPM in this window[59-75]: 72
+Average BPM: 69.6
+
+BPM in this window[74-90]: 72
+Average BPM: 70.0
+
+Your heart is beating at 70.0 bpm.
+Press any enter to continue
+/home/rohitth007/Documents/IITM/IoT/3fps_150x150/8_morning_normal_72.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-15]: 72
+Average BPM: 72.0
+
+BPM in this window[14-30]: 72
+Average BPM: 72.0
+
+BPM in this window[29-45]: 60
+Average BPM: 68.0
+
+BPM in this window[44-60]: 72
+Average BPM: 69.0
+
+BPM in this window[59-75]: 60
+Average BPM: 67.2
+
+BPM in this window[74-90]: 72
+Average BPM: 68.0
+
+Your heart is beating at 68.0 bpm.
+Press any enter to continue
+/home/rohitth007/Documents/IITM/IoT/3fps_150x150/9_afterdinner_normal_83.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-15]: 72
+Average BPM: 72.0
+
+BPM in this window[14-30]: 72
+Average BPM: 72.0
+
+BPM in this window[29-45]: 72
+Average BPM: 72.0
+
+BPM in this window[44-60]: 60
+Average BPM: 69.0
+
+BPM in this window[59-75]: 84
+Average BPM: 72.0
+
+BPM in this window[74-90]: 72
+Average BPM: 72.0
+
+Your heart is beating at 72.0 bpm.
+Press any enter to continue
+
+
+>> > python3 freq_domain.py
+/home/rohitth007/Documents/IITM/IoT/3fps_150x150/10_afterlunch_normal_78.mp4
+
+BPM in this window[1-15]: 72.00000000000001
+Weighted Avg BPM: 72.00000000000001
+
+BPM in this window[1-30]: 78.0
+Weighted Avg BPM: 77.88382799578544
+
+BPM in this window[1-45]: 76.0
+Weighted Avg BPM: 77.73153361351852
+
+BPM in this window[1-60]: 78.0
+Weighted Avg BPM: 77.61585282030933
+
+BPM in this window[1-75]: 76.8
+Weighted Avg BPM: 76.48869927682333
+
+BPM in this window[1-90]: 76.0
+Weighted Avg BPM: 76.04890832357538
+
+Your heart is beating at 76.04890832357538 bpm.
+Press any Enter to continue
+/home/rohitth007/Documents/IITM/IoT/3fps_150x150/1_evening_resting_normal_81.mp4
+
+BPM in this window[1-15]: 72.00000000000001
+Weighted Avg BPM: 72.00000000000001
+
+BPM in this window[1-30]: 78.0
+Weighted Avg BPM: 78.46454779251793
+
+BPM in this window[1-45]: 80.00000000000001
+Weighted Avg BPM: 79.57948128477796
+
+BPM in this window[1-60]: 81.0
+Weighted Avg BPM: 81.61824849282681
+
+BPM in this window[1-75]: 81.60000000000001
+Weighted Avg BPM: 81.3312554825874
+
+BPM in this window[1-90]: 80.00000000000001
+Weighted Avg BPM: 80.11215169457078
+
+Your heart is beating at 80.11215169457078 bpm.
+Press any Enter to continue
+/home/rohitth007/Documents/IITM/IoT/3fps_150x150/2_afterdinner_normal_77.mp4
+
+BPM in this window[1-15]: 72.00000000000001
+Weighted Avg BPM: 72.00000000000001
+
+BPM in this window[1-30]: 78.0
+Weighted Avg BPM: 78.60252956829255
+
+BPM in this window[1-45]: 76.0
+Weighted Avg BPM: 76.9087961181354
+
+BPM in this window[1-60]: 75.0
+Weighted Avg BPM: 75.57979231466364
+
+BPM in this window[1-75]: 76.8
+Weighted Avg BPM: 77.06761150461783
+
+BPM in this window[1-90]: 76.0
+Weighted Avg BPM: 76.26291418918838
+
+Your heart is beating at 76.26291418918838 bpm.
+Press any Enter to continue
+/home/rohitth007/Documents/IITM/IoT/3fps_150x150/3_morning_normal_77.mp4
+
+BPM in this window[1-15]: 72.00000000000001
+Weighted Avg BPM: 72.00000000000001
+
+BPM in this window[1-30]: 72.00000000000001
+Weighted Avg BPM: 72.95912655144907
+
+BPM in this window[1-45]: 76.0
+Weighted Avg BPM: 75.6885908011427
+
+BPM in this window[1-60]: 75.0
+Weighted Avg BPM: 75.1114108086372
+
+BPM in this window[1-75]: 76.8
+Weighted Avg BPM: 76.51373314478269
+
+BPM in this window[1-90]: 76.0
+Weighted Avg BPM: 75.9209917831912
+
+Your heart is beating at 75.9209917831912 bpm.
+Press any Enter to continue
+/home/rohitth007/Documents/IITM/IoT/3fps_150x150/4_afternoon_normal_86.mp4
+
+BPM in this window[1-15]: 60.0
+Weighted Avg BPM: 56.071780131822514
+
+BPM in this window[1-30]: 84.0
+Weighted Avg BPM: 84.0
+
+BPM in this window[1-45]: 84.0
+Weighted Avg BPM: 84.0
+
+BPM in this window[1-60]: 84.0
+Weighted Avg BPM: 84.49288823226595
+
+BPM in this window[1-75]: 84.0
+Weighted Avg BPM: 84.30836076274491
+
+BPM in this window[1-90]: 84.0
+Weighted Avg BPM: 84.19369079837317
+
+Your heart is beating at 84.19369079837317 bpm.
+Press any Enter to continue
+/home/rohitth007/Documents/IITM/IoT/3fps_150x150/5_afterdinner_normal_76.mp4
+
+BPM in this window[1-15]: 72.00000000000001
+Weighted Avg BPM: 72.00000000000001
+
+BPM in this window[1-30]: 72.00000000000001
+Weighted Avg BPM: 71.12611327637833
+
+BPM in this window[1-45]: 72.00000000000001
+Weighted Avg BPM: 72.60279127968043
+
+BPM in this window[1-60]: 75.0
+Weighted Avg BPM: 74.280153819809
+
+BPM in this window[1-75]: 74.4
+Weighted Avg BPM: 73.93332127364692
+
+BPM in this window[1-90]: 76.0
+Weighted Avg BPM: 75.51102906841454
+
+Your heart is beating at 75.51102906841454 bpm.
+Press any Enter to continue
+/home/rohitth007/Documents/IITM/IoT/3fps_150x150/6_morning_normal_78.mp4
+
+BPM in this window[1-15]: 72.00000000000001
+Weighted Avg BPM: 72.00000000000001
+
+BPM in this window[1-30]: 78.0
+Weighted Avg BPM: 77.81515695117832
+
+BPM in this window[1-45]: 76.0
+Weighted Avg BPM: 75.77717195751848
+
+BPM in this window[1-60]: 75.0
+Weighted Avg BPM: 74.79913248715371
+
+BPM in this window[1-75]: 74.4
+Weighted Avg BPM: 75.03208300670487
+
+BPM in this window[1-90]: 76.0
+Weighted Avg BPM: 75.8909149165226
+
+Your heart is beating at 75.8909149165226 bpm.
+Press any Enter to continue
+/home/rohitth007/Documents/IITM/IoT/3fps_150x150/7_afterdinner_normal_86.mp4
+
+BPM in this window[1-15]: 72.00000000000001
+Weighted Avg BPM: 72.00000000000001
+
+BPM in this window[1-30]: 84.0
+Weighted Avg BPM: 84.0
+
+BPM in this window[1-45]: 84.0
+Weighted Avg BPM: 84.0
+
+BPM in this window[1-60]: 84.0
+Weighted Avg BPM: 83.55683015493726
+
+BPM in this window[1-75]: 84.0
+Weighted Avg BPM: 83.81875479196881
+
+BPM in this window[1-90]: 82.0
+Weighted Avg BPM: 81.79483870384442
+
+Your heart is beating at 81.79483870384442 bpm.
+Press any Enter to continue
+/home/rohitth007/Documents/IITM/IoT/3fps_150x150/8_morning_normal_72.mp4
+
+BPM in this window[1-15]: 72.00000000000001
+Weighted Avg BPM: 72.00000000000001
+
+BPM in this window[1-30]: 72.00000000000001
+Weighted Avg BPM: 73.07006381434944
+
+BPM in this window[1-45]: 72.00000000000001
+Weighted Avg BPM: 71.83747487931808
+
+BPM in this window[1-60]: 72.00000000000001
+Weighted Avg BPM: 71.52135557420232
+
+BPM in this window[1-75]: 69.60000000000001
+Weighted Avg BPM: 69.54673693576503
+
+BPM in this window[1-90]: 70.0
+Weighted Avg BPM: 69.50337293052128
+
+Your heart is beating at 69.50337293052128 bpm.
+Press any Enter to continue
+/home/rohitth007/Documents/IITM/IoT/3fps_150x150/9_afterdinner_normal_83.mp4
+
+BPM in this window[1-15]: 72.00000000000001
+Weighted Avg BPM: 72.00000000000001
+
+BPM in this window[1-30]: 84.0
+Weighted Avg BPM: 84.0
+
+BPM in this window[1-45]: 72.00000000000001
+Weighted Avg BPM: 71.03951622814348
+
+BPM in this window[1-60]: 72.00000000000001
+Weighted Avg BPM: 72.41904062897943
+
+BPM in this window[1-75]: 72.00000000000001
+Weighted Avg BPM: 72.05504440156287
+
+BPM in this window[1-90]: 76.0
+Weighted Avg BPM: 76.05380871187207
+
+Your heart is beating at 76.05380871187207 bpm.
+Press any Enter to continue
+
+>> > python3 time_domain.py
+/home/rohitth007/Documents/IITM/IoT/10fps_roiq_300x300/10_afterlunch_normal_78.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-50]: 84
+Average BPM: 84.0
+
+BPM in this window[49-100]: 72
+Average BPM: 78.0
+
+BPM in this window[99-150]: 84
+Average BPM: 80.0
+
+BPM in this window[149-200]: 84
+Average BPM: 81.0
+
+BPM in this window[199-250]: 72
+Average BPM: 79.2
+
+BPM in this window[249-300]: 72
+Average BPM: 78.0
+
+Your heart is beating at 78.0 bpm.
+Press Enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_roiq_300x300/1_evening_resting_normal_81.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-50]: 84
+Average BPM: 84.0
+
+BPM in this window[49-100]: 72
+Average BPM: 78.0
+
+BPM in this window[99-150]: 84
+Average BPM: 80.0
+
+BPM in this window[149-200]: 84
+Average BPM: 81.0
+
+BPM in this window[199-250]: 84
+Average BPM: 81.6
+
+BPM in this window[249-300]: 72
+Average BPM: 80.0
+
+Your heart is beating at 80.0 bpm.
+Press Enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_roiq_300x300/2_afterdinner_normal_77.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-50]: 84
+Average BPM: 84.0
+
+BPM in this window[49-100]: 84
+Average BPM: 84.0
+
+BPM in this window[99-150]: 72
+Average BPM: 80.0
+
+BPM in this window[149-200]: 72
+Average BPM: 78.0
+
+BPM in this window[199-250]: 84
+Average BPM: 79.2
+
+BPM in this window[249-300]: 84
+Average BPM: 80.0
+
+Your heart is beating at 80.0 bpm.
+Press Enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_roiq_300x300/3_morning_normal_77.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-50]: 72
+Average BPM: 72.0
+
+BPM in this window[49-100]: 72
+Average BPM: 72.0
+
+BPM in this window[99-150]: 84
+Average BPM: 76.0
+
+BPM in this window[149-200]: 72
+Average BPM: 75.0
+
+BPM in this window[199-250]: 84
+Average BPM: 76.8
+
+BPM in this window[249-300]: 84
+Average BPM: 78.0
+
+Your heart is beating at 78.0 bpm.
+Press Enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_roiq_300x300/4_afternoon_normal_86.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-50]: 84
+Average BPM: 84.0
+
+BPM in this window[49-100]: 84
+Average BPM: 84.0
+
+BPM in this window[99-150]: 96
+Average BPM: 88.0
+
+BPM in this window[149-200]: 84
+Average BPM: 87.0
+
+BPM in this window[199-250]: 84
+Average BPM: 86.4
+
+BPM in this window[249-300]: 84
+Average BPM: 86.0
+
+Your heart is beating at 86.0 bpm.
+Press Enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_roiq_300x300/5_afterdinner_normal_76.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-50]: 72
+Average BPM: 72.0
+
+BPM in this window[49-100]: 72
+Average BPM: 72.0
+
+BPM in this window[99-150]: 84
+Average BPM: 76.0
+
+BPM in this window[149-200]: 72
+Average BPM: 75.0
+
+BPM in this window[199-250]: 72
+Average BPM: 74.4
+
+BPM in this window[249-300]: 72
+Average BPM: 74.0
+
+Your heart is beating at 74.0 bpm.
+Press Enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_roiq_300x300/6_morning_normal_78.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-50]: 72
+Average BPM: 72.0
+
+BPM in this window[49-100]: 72
+Average BPM: 72.0
+
+BPM in this window[99-150]: 96
+Average BPM: 80.0
+
+BPM in this window[149-200]: 72
+Average BPM: 78.0
+
+BPM in this window[199-250]: 84
+Average BPM: 79.2
+
+BPM in this window[249-300]: 84
+Average BPM: 80.0
+
+Your heart is beating at 80.0 bpm.
+Press Enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_roiq_300x300/7_afterdinner_normal_86.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-50]: 96
+Average BPM: 96.0
+
+BPM in this window[49-100]: 72
+Average BPM: 84.0
+
+BPM in this window[99-150]: 84
+Average BPM: 84.0
+
+BPM in this window[149-200]: 96
+Average BPM: 87.0
+
+BPM in this window[199-250]: 96
+Average BPM: 88.8
+
+BPM in this window[249-300]: 84
+Average BPM: 88.0
+
+Your heart is beating at 88.0 bpm.
+Press Enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_roiq_300x300/8_morning_normal_72.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-50]: 84
+Average BPM: 84.0
+
+BPM in this window[49-100]: 72
+Average BPM: 78.0
+
+BPM in this window[99-150]: 72
+Average BPM: 76.0
+
+BPM in this window[149-200]: 72
+Average BPM: 75.0
+
+BPM in this window[199-250]: 60
+Average BPM: 72.0
+
+BPM in this window[249-300]: 72
+Average BPM: 72.0
+
+Your heart is beating at 72.0 bpm.
+Press Enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_roiq_300x300/9_afterdinner_normal_83.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-50]: 84
+Average BPM: 84.0
+
+BPM in this window[49-100]: 72
+Average BPM: 78.0
+
+BPM in this window[99-150]: 72
+Average BPM: 76.0
+
+BPM in this window[149-200]: 72
+Average BPM: 75.0
+
+BPM in this window[199-250]: 72
+Average BPM: 74.4
+
+BPM in this window[249-300]: 84
+Average BPM: 76.0
+
+Your heart is beating at 76.0 bpm.
+Press Enter to continue
+
+
+>> > python3 freq_domain.py
+/home/rohitth007/Documents/IITM/IoT/10fps_roiq_300x300/10_afterlunch_normal_78.mp4
+
+BPM in this window[1-50]: 84.00000000000001
+Weighted Avg BPM: 80.17029522520666
+
+BPM in this window[1-100]: 78.0
+Weighted Avg BPM: 77.81384023930933
+
+BPM in this window[1-150]: 76.00000000000001
+Weighted Avg BPM: 76.96123623592942
+
+BPM in this window[1-200]: 78.0
+Weighted Avg BPM: 77.53688993827127
+
+BPM in this window[1-250]: 76.8
+Weighted Avg BPM: 76.67176014401467
+
+BPM in this window[1-300]: 76.00000000000001
+Weighted Avg BPM: 76.2060948318681
+
+Your heart is beating at 76.2060948318681 bpm.
+Press Enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_roiq_300x300/1_evening_resting_normal_81.mp4
+
+BPM in this window[1-50]: 84.00000000000001
+Weighted Avg BPM: 84.74703556070648
+
+BPM in this window[1-100]: 78.0
+Weighted Avg BPM: 79.32626743198738
+
+BPM in this window[1-150]: 80.0
+Weighted Avg BPM: 79.74591681998383
+
+BPM in this window[1-200]: 81.0
+Weighted Avg BPM: 81.10638790724816
+
+BPM in this window[1-250]: 81.60000000000001
+Weighted Avg BPM: 81.16418930722593
+
+BPM in this window[1-300]: 80.0
+Weighted Avg BPM: 80.33868634468722
+
+Your heart is beating at 80.33868634468722 bpm.
+Press Enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_roiq_300x300/2_afterdinner_normal_77.mp4
+
+BPM in this window[1-50]: 84.00000000000001
+Weighted Avg BPM: 84.99394430661566
+
+BPM in this window[1-100]: 78.0
+Weighted Avg BPM: 77.59401402579493
+
+BPM in this window[1-150]: 76.00000000000001
+Weighted Avg BPM: 76.50336441202843
+
+BPM in this window[1-200]: 75.0
+Weighted Avg BPM: 75.47283745412008
+
+
+BPM in this window[1-250]: 76.8
+Weighted Avg BPM: 76.6842093371544
+
+BPM in this window[1-300]: 76.00000000000001
+Weighted Avg BPM: 76.22465384269525
+
+Your heart is beating at 76.22465384269525 bpm.
+Press Enter to continue/home/rohitth007/Documents/IITM/IoT/10fps_roiq_300x300/3_morning_normal_77.mp4
+
+BPM in this window[1-50]: 72.0
+Weighted Avg BPM: 73.38263757294513
+
+BPM in this window[1-100]: 72.0
+Weighted Avg BPM: 73.9759459273431
+
+BPM in this window[1-150]: 76.00000000000001
+Weighted Avg BPM: 75.98145624865086
+
+BPM in this window[1-200]: 75.0
+Weighted Avg BPM: 75.287840604889
+
+BPM in this window[1-250]: 76.8
+Weighted Avg BPM: 76.72969500270489
+
+BPM in this window[1-300]: 76.00000000000001
+Weighted Avg BPM: 76.01638509816902
+
+Your heart is beating at 76.01638509816902 bpm.
+Press Enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_roiq_300x300/4_afternoon_normal_86.mp4
+
+BPM in this window[1-50]: 84.00000000000001
+Weighted Avg BPM: 82.69424833695629
+
+BPM in this window[1-100]: 84.00000000000001
+Weighted Avg BPM: 83.01527942630953
+
+BPM in this window[1-150]: 80.0
+Weighted Avg BPM: 80.98616962795786
+
+BPM in this window[1-200]: 84.00000000000001
+Weighted Avg BPM: 83.92176018060691
+
+BPM in this window[1-250]: 84.00000000000001
+Weighted Avg BPM: 84.10280151293243
+
+BPM in this window[1-300]: 84.00000000000001
+Weighted Avg BPM: 84.1423844341788
+
+Your heart is beating at 84.1423844341788 bpm.
+Press Enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_roiq_300x300/5_afterdinner_normal_76.mp4
+
+BPM in this window[1-50]: 72.0
+Weighted Avg BPM: 72.15624756965329
+
+BPM in this window[1-100]: 72.0
+Weighted Avg BPM: 72.2200850126855
+
+BPM in this window[1-150]: 72.00000000000001
+Weighted Avg BPM: 73.25092787502348
+
+BPM in this window[1-200]: 75.0
+Weighted Avg BPM: 74.28335046466697
+
+BPM in this window[1-250]: 74.4
+Weighted Avg BPM: 73.93357972543674
+
+BPM in this window[1-300]: 74.0
+Weighted Avg BPM: 73.83759642669222
+
+Your heart is beating at 73.83759642669222 bpm.
+Press Enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_roiq_300x300/6_morning_normal_78.mp4
+
+BPM in this window[1-50]: 84.00000000000001
+Weighted Avg BPM: 82.95153450295425
+
+BPM in this window[1-100]: 78.0
+Weighted Avg BPM: 77.57361718209512
+
+BPM in this window[1-150]: 76.00000000000001
+Weighted Avg BPM: 76.31011590190809
+
+BPM in this window[1-200]: 75.0
+Weighted Avg BPM: 75.49586935764412
+
+BPM in this window[1-250]: 76.8
+Weighted Avg BPM: 76.45339099614044
+
+BPM in this window[1-300]: 76.00000000000001
+Weighted Avg BPM: 75.78349390029238
+
+Your heart is beating at 75.78349390029238 bpm.
+Press Enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_roiq_300x300/7_afterdinner_normal_86.mp4
+
+BPM in this window[1-50]: 84.00000000000001
+Weighted Avg BPM: 83.99196308864839
+
+BPM in this window[1-100]: 84.00000000000001
+Weighted Avg BPM: 83.91278682802049
+
+BPM in this window[1-150]: 84.00000000000001
+Weighted Avg BPM: 83.59377030817477
+
+BPM in this window[1-200]: 84.00000000000001
+Weighted Avg BPM: 83.3689953641416
+
+BPM in this window[1-250]: 84.00000000000001
+Weighted Avg BPM: 83.51219090582944
+
+BPM in this window[1-300]: 82.00000000000001
+Weighted Avg BPM: 82.26646925809722
+
+Your heart is beating at 82.26646925809722 bpm.
+Press Enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_roiq_300x300/8_morning_normal_72.mp4
+
+BPM in this window[1-50]: 84.00000000000001
+Weighted Avg BPM: 83.24198044351553
+
+BPM in this window[1-100]: 78.0
+Weighted Avg BPM: 77.84617488563508
+
+BPM in this window[1-150]: 72.00000000000001
+Weighted Avg BPM: 72.1641516266259
+
+BPM in this window[1-200]: 69.00000000000001
+Weighted Avg BPM: 69.58571502111533
+
+BPM in this window[1-250]: 69.60000000000001
+Weighted Avg BPM: 69.32309068715914
+
+BPM in this window[1-300]: 70.0
+Weighted Avg BPM: 69.37282582365057
+
+Your heart is beating at 69.37282582365057 bpm.
+Press Enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_roiq_300x300/9_afterdinner_normal_83.mp4
+
+BPM in this window[1-50]: 84.00000000000001
+Weighted Avg BPM: 83.8410594296809
+
+BPM in this window[1-100]: 84.00000000000001
+Weighted Avg BPM: 82.54669717237826
+
+BPM in this window[1-150]: 72.00000000000001
+Weighted Avg BPM: 70.26071737571192
+
+BPM in this window[1-200]: 72.0
+Weighted Avg BPM: 71.67358443973573
+
+BPM in this window[1-250]: 69.60000000000001
+Weighted Avg BPM: 70.25842335230297
+
+BPM in this window[1-300]: 70.0
+Weighted Avg BPM: 70.39833327190262
+
+Your heart is beating at 70.39833327190262 bpm.
+Press Enter to continue
+
+>> > python3 time_domain.py
+/home/rohitth007/Documents/IITM/IoT/10fps_roiq_300x300/10_afterlunch_normal_78.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-50]: 84
+Average BPM: 84.0
+
+BPM in this window[49-100]: 72
+Average BPM: 78.0
+
+BPM in this window[99-150]: 84
+Average BPM: 80.0
+
+BPM in this window[149-200]: 84
+Average BPM: 81.0
+
+BPM in this window[199-250]: 72
+Average BPM: 79.2
+
+BPM in this window[249-300]: 72
+Average BPM: 78.0
+
+Your heart is beating at 78.0 bpm.
+Press Enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_roiq_300x300/1_evening_resting_normal_81.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-50]: 84
+Average BPM: 84.0
+
+BPM in this window[49-100]: 72
+Average BPM: 78.0
+
+BPM in this window[99-150]: 84
+Average BPM: 80.0
+
+BPM in this window[149-200]: 84
+Average BPM: 81.0
+
+BPM in this window[199-250]: 84
+Average BPM: 81.6
+
+BPM in this window[249-300]: 72
+Average BPM: 80.0
+
+Your heart is beating at 80.0 bpm.
+Press Enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_roiq_300x300/2_afterdinner_normal_77.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-50]: 84
+Average BPM: 84.0
+
+BPM in this window[49-100]: 84
+Average BPM: 84.0
+
+BPM in this window[99-150]: 72
+Average BPM: 80.0
+
+BPM in this window[149-200]: 72
+Average BPM: 78.0
+
+BPM in this window[199-250]: 84
+Average BPM: 79.2
+
+BPM in this window[249-300]: 84
+Average BPM: 80.0
+
+Your heart is beating at 80.0 bpm.
+Press Enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_roiq_300x300/3_morning_normal_77.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-50]: 72
+Average BPM: 72.0
+
+BPM in this window[49-100]: 72
+Average BPM: 72.0
+
+BPM in this window[99-150]: 84
+Average BPM: 76.0
+
+BPM in this window[149-200]: 72
+Average BPM: 75.0
+
+BPM in this window[199-250]: 84
+Average BPM: 76.8
+
+BPM in this window[249-300]: 84
+Average BPM: 78.0
+
+Your heart is beating at 78.0 bpm.
+Press Enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_roiq_300x300/4_afternoon_normal_86.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-50]: 84
+Average BPM: 84.0
+
+BPM in this window[49-100]: 84
+Average BPM: 84.0
+
+BPM in this window[99-150]: 96
+Average BPM: 88.0
+
+BPM in this window[149-200]: 84
+Average BPM: 87.0
+
+BPM in this window[199-250]: 84
+Average BPM: 86.4
+
+BPM in this window[249-300]: 84
+Average BPM: 86.0
+
+Your heart is beating at 86.0 bpm.
+Press Enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_roiq_300x300/5_afterdinner_normal_76.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-50]: 72
+Average BPM: 72.0
+
+BPM in this window[49-100]: 72
+Average BPM: 72.0
+
+BPM in this window[99-150]: 84
+Average BPM: 76.0
+
+BPM in this window[149-200]: 72
+Average BPM: 75.0
+
+BPM in this window[199-250]: 72
+Average BPM: 74.4
+
+BPM in this window[249-300]: 72
+Average BPM: 74.0
+
+Your heart is beating at 74.0 bpm.
+Press Enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_roiq_300x300/6_morning_normal_78.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-50]: 72
+Average BPM: 72.0
+
+BPM in this window[49-100]: 72
+Average BPM: 72.0
+
+BPM in this window[99-150]: 96
+Average BPM: 80.0
+
+BPM in this window[149-200]: 72
+Average BPM: 78.0
+
+BPM in this window[199-250]: 84
+Average BPM: 79.2
+
+BPM in this window[249-300]: 84
+Average BPM: 80.0
+
+Your heart is beating at 80.0 bpm.
+Press Enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_roiq_300x300/7_afterdinner_normal_86.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-50]: 96
+Average BPM: 96.0
+
+BPM in this window[49-100]: 72
+Average BPM: 84.0
+
+BPM in this window[99-150]: 84
+Average BPM: 84.0
+
+BPM in this window[149-200]: 96
+Average BPM: 87.0
+
+BPM in this window[199-250]: 96
+Average BPM: 88.8
+
+BPM in this window[249-300]: 84
+Average BPM: 88.0
+
+Your heart is beating at 88.0 bpm.
+Press Enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_roiq_300x300/8_morning_normal_72.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-50]: 84
+Average BPM: 84.0
+
+BPM in this window[49-100]: 72
+Average BPM: 78.0
+
+BPM in this window[99-150]: 72
+Average BPM: 76.0
+
+BPM in this window[149-200]: 72
+Average BPM: 75.0
+
+BPM in this window[199-250]: 60
+Average BPM: 72.0
+
+BPM in this window[249-300]: 72
+Average BPM: 72.0
+
+Your heart is beating at 72.0 bpm.
+Press Enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_roiq_300x300/9_afterdinner_normal_83.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-50]: 84
+Average BPM: 84.0
+
+BPM in this window[49-100]: 72
+Average BPM: 78.0
+
+BPM in this window[99-150]: 72
+Average BPM: 76.0
+
+BPM in this window[149-200]: 72
+Average BPM: 75.0
+
+BPM in this window[199-250]: 72
+Average BPM: 74.4
+
+BPM in this window[249-300]: 84
+Average BPM: 76.0
+
+Your heart is beating at 76.0 bpm.
+Press Enter to continue
+rohitth007 @ ubuntu-home: [IoT]
+>> > python3 time_domain.py
+/home/rohitth007/Documents/IITM/IoT/10fps_roiq_150x150/10_afterlunch_normal_78.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-50]: 84
+Average BPM: 84.0
+
+BPM in this window[49-100]: 72
+Average BPM: 78.0
+
+BPM in this window[99-150]: 84
+Average BPM: 80.0
+
+BPM in this window[149-200]: 84
+Average BPM: 81.0
+
+BPM in this window[199-250]: 72
+Average BPM: 79.2
+
+BPM in this window[249-300]: 72
+Average BPM: 78.0
+
+Your heart is beating at 78.0 bpm.
+Press Enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_roiq_150x150/1_evening_resting_normal_81.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-50]: 84
+Average BPM: 84.0
+
+BPM in this window[49-100]: 84
+Average BPM: 84.0
+
+BPM in this window[99-150]: 84
+Average BPM: 84.0
+
+BPM in this window[149-200]: 84
+Average BPM: 84.0
+
+BPM in this window[199-250]: 84
+Average BPM: 84.0
+
+BPM in this window[249-300]: 84
+Average BPM: 84.0
+
+Your heart is beating at 84.0 bpm.
+Press Enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_roiq_150x150/2_afterdinner_normal_77.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-50]: 84
+Average BPM: 84.0
+
+BPM in this window[49-100]: 72
+Average BPM: 78.0
+
+BPM in this window[99-150]: 72
+Average BPM: 76.0
+
+BPM in this window[149-200]: 72
+Average BPM: 75.0
+
+BPM in this window[199-250]: 84
+Average BPM: 76.8
+
+BPM in this window[249-300]: 60
+Average BPM: 74.0
+
+Your heart is beating at 74.0 bpm.
+Press Enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_roiq_150x150/3_morning_normal_77.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-50]: 72
+Average BPM: 72.0
+
+BPM in this window[49-100]: 96
+Average BPM: 84.0
+
+BPM in this window[99-150]: 84
+Average BPM: 84.0
+
+BPM in this window[149-200]: 72
+Average BPM: 81.0
+
+BPM in this window[199-250]: 84
+Average BPM: 81.6
+
+BPM in this window[249-300]: 84
+Average BPM: 82.0
+
+Your heart is beating at 82.0 bpm.
+Press Enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_roiq_150x150/4_afternoon_normal_86.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-50]: 84
+Average BPM: 84.0
+
+BPM in this window[49-100]: 84
+Average BPM: 84.0
+
+BPM in this window[99-150]: 96
+Average BPM: 88.0
+
+BPM in this window[149-200]: 84
+Average BPM: 87.0
+
+BPM in this window[199-250]: 84
+Average BPM: 86.4
+
+BPM in this window[249-300]: 84
+Average BPM: 86.0
+
+Your heart is beating at 86.0 bpm.
+Press Enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_roiq_150x150/5_afterdinner_normal_76.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-50]: 72
+Average BPM: 72.0
+
+BPM in this window[49-100]: 72
+Average BPM: 72.0
+
+BPM in this window[99-150]: 72
+Average BPM: 72.0
+
+BPM in this window[149-200]: 84
+Average BPM: 75.0
+
+BPM in this window[199-250]: 72
+Average BPM: 74.4
+
+BPM in this window[249-300]: 60
+Average BPM: 72.0
+
+Your heart is beating at 72.0 bpm.
+Press Enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_roiq_150x150/6_morning_normal_78.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-50]: 72
+Average BPM: 72.0
+
+BPM in this window[49-100]: 72
+Average BPM: 72.0
+
+BPM in this window[99-150]: 72
+Average BPM: 72.0
+
+BPM in this window[149-200]: 84
+Average BPM: 75.0
+
+BPM in this window[199-250]: 84
+Average BPM: 76.8
+
+BPM in this window[249-300]: 84
+Average BPM: 78.0
+
+Your heart is beating at 78.0 bpm.
+Press Enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_roiq_150x150/7_afterdinner_normal_86.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-50]: 96
+Average BPM: 96.0
+
+BPM in this window[49-100]: 84
+Average BPM: 90.0
+
+BPM in this window[99-150]: 96
+Average BPM: 92.0
+
+BPM in this window[149-200]: 96
+Average BPM: 93.0
+
+BPM in this window[199-250]: 84
+Average BPM: 91.2
+
+BPM in this window[249-300]: 84
+Average BPM: 90.0
+
+Your heart is beating at 90.0 bpm.
+Press Enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_roiq_150x150/8_morning_normal_72.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-50]: 84
+Average BPM: 84.0
+
+BPM in this window[49-100]: 72
+Average BPM: 78.0
+
+BPM in this window[99-150]: 72
+Average BPM: 76.0
+
+BPM in this window[149-200]: 72
+Average BPM: 75.0
+
+BPM in this window[199-250]: 60
+Average BPM: 72.0
+
+BPM in this window[249-300]: 72
+Average BPM: 72.0
+
+Your heart is beating at 72.0 bpm.
+Press Enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_roiq_150x150/9_afterdinner_normal_83.mp4
+Each window is a 5sec interval,
+sliding by 5 sec each time.
+
+BPM in this window[0-50]: 84
+Average BPM: 84.0
+
+BPM in this window[49-100]: 72
+Average BPM: 78.0
+
+BPM in this window[99-150]: 72
+Average BPM: 76.0
+
+BPM in this window[149-200]: 72
+Average BPM: 75.0
+
+BPM in this window[199-250]: 72
+Average BPM: 74.4
+
+BPM in this window[249-300]: 84
+Average BPM: 76.0
+
+Your heart is beating at 76.0 bpm.
+Press Enter to continue
+
+
+>> > python3 freq_domain.py
+/home/rohitth007/Documents/IITM/IoT/10fps_roiq_150x150/10_afterlunch_normal_78.mp4
+
+BPM in this window[1-50]: 84.00000000000001
+Weighted Avg BPM: 80.51490913532298
+
+BPM in this window[1-100]: 78.0
+Weighted Avg BPM: 77.83288874588987
+
+BPM in this window[1-150]: 76.00000000000001
+Weighted Avg BPM: 76.96069712033649
+
+BPM in this window[1-200]: 78.0
+Weighted Avg BPM: 77.5533807228017
+
+BPM in this window[1-250]: 76.8
+Weighted Avg BPM: 76.67705810163788
+
+BPM in this window[1-300]: 76.00000000000001
+Weighted Avg BPM: 76.21990687669512
+
+Your heart is beating at 76.21990687669512 bpm.
+Press Enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_roiq_150x150/1_evening_resting_normal_81.mp4
+
+BPM in this window[1-50]: 84.00000000000001
+Weighted Avg BPM: 85.31484221989534
+
+BPM in this window[1-100]: 78.0
+Weighted Avg BPM: 78.93743277203615
+
+BPM in this window[1-150]: 80.0
+Weighted Avg BPM: 79.73684311558024
+
+BPM in this window[1-200]: 81.0
+Weighted Avg BPM: 81.17874271683701
+
+BPM in this window[1-250]: 81.60000000000001
+Weighted Avg BPM: 81.2128604864745
+
+BPM in this window[1-300]: 80.0
+Weighted Avg BPM: 80.30327099083559
+
+Your heart is beating at 80.30327099083559 bpm.
+Press Enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_roiq_150x150/2_afterdinner_normal_77.mp4
+
+BPM in this window[1-50]: 84.00000000000001
+Weighted Avg BPM: 85.09840549973352
+
+BPM in this window[1-100]: 78.0
+Weighted Avg BPM: 77.55392153447302
+
+BPM in this window[1-150]: 76.00000000000001
+Weighted Avg BPM: 76.54328283323147
+
+BPM in this window[1-200]: 75.0
+Weighted Avg BPM: 75.4536372457896
+
+BPM in this window[1-250]: 76.8
+Weighted Avg BPM: 76.67682941787717
+
+BPM in this window[1-300]: 76.00000000000001
+Weighted Avg BPM: 76.20273762577715
+
+Your heart is beating at 76.20273762577715 bpm.
+Press Enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_roiq_150x150/3_morning_normal_77.mp4
+
+BPM in this window[1-50]: 72.0
+Weighted Avg BPM: 73.65358658055109
+
+BPM in this window[1-100]: 72.0
+Weighted Avg BPM: 73.89449142241261
+
+BPM in this window[1-150]: 76.00000000000001
+Weighted Avg BPM: 75.91764357654885
+
+BPM in this window[1-200]: 75.0
+Weighted Avg BPM: 75.27407730944198
+
+BPM in this window[1-250]: 76.8
+Weighted Avg BPM: 76.69937189316813
+
+BPM in this window[1-300]: 76.00000000000001
+Weighted Avg BPM: 76.01400708389252
+
+Your heart is beating at 76.01400708389252 bpm.
+Press Enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_roiq_150x150/4_afternoon_normal_86.mp4
+
+BPM in this window[1-50]: 84.00000000000001
+Weighted Avg BPM: 82.59855215123942
+
+BPM in this window[1-100]: 84.00000000000001
+Weighted Avg BPM: 82.98805851858441
+
+BPM in this window[1-150]: 80.0
+Weighted Avg BPM: 80.94471613249814
+
+BPM in this window[1-200]: 84.00000000000001
+Weighted Avg BPM: 83.93612640312034
+
+BPM in this window[1-250]: 84.00000000000001
+Weighted Avg BPM: 84.12092321955888
+
+BPM in this window[1-300]: 84.00000000000001
+Weighted Avg BPM: 84.15741560859298
+
+Your heart is beating at 84.15741560859298 bpm.
+Press Enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_roiq_150x150/5_afterdinner_normal_76.mp4
+
+BPM in this window[1-50]: 72.0
+Weighted Avg BPM: 72.45570241573365
+
+BPM in this window[1-100]: 72.0
+Weighted Avg BPM: 72.2613058135002
+
+BPM in this window[1-150]: 72.00000000000001
+Weighted Avg BPM: 73.28057194786041
+
+BPM in this window[1-200]: 75.0
+Weighted Avg BPM: 74.273333937558
+
+BPM in this window[1-250]: 74.4
+Weighted Avg BPM: 73.93640055392548
+
+BPM in this window[1-300]: 72.00000000000001
+Weighted Avg BPM: 72.37917338379745
+
+Your heart is beating at 72.37917338379745 bpm.
+Press Enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_roiq_150x150/6_morning_normal_78.mp4
+
+BPM in this window[1-50]: 84.00000000000001
+Weighted Avg BPM: 83.32891170877357
+
+BPM in this window[1-100]: 78.0
+Weighted Avg BPM: 77.74554377251526
+
+BPM in this window[1-150]: 76.00000000000001
+Weighted Avg BPM: 76.30085132764188
+
+BPM in this window[1-200]: 75.0
+Weighted Avg BPM: 75.52172325297185
+
+BPM in this window[1-250]: 76.8
+Weighted Avg BPM: 76.48517990156428
+
+BPM in this window[1-300]: 76.00000000000001
+Weighted Avg BPM: 75.79894591116367
+
+Your heart is beating at 75.79894591116367 bpm.
+Press Enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_roiq_150x150/7_afterdinner_normal_86.mp4
+
+BPM in this window[1-50]: 84.00000000000001
+Weighted Avg BPM: 83.92306375562623
+
+BPM in this window[1-100]: 84.00000000000001
+Weighted Avg BPM: 83.81951060299396
+
+BPM in this window[1-150]: 84.00000000000001
+Weighted Avg BPM: 83.64754554148504
+
+BPM in this window[1-200]: 84.00000000000001
+Weighted Avg BPM: 83.45088346328818
+
+BPM in this window[1-250]: 84.00000000000001
+Weighted Avg BPM: 83.52818517830849
+
+BPM in this window[1-300]: 82.00000000000001
+Weighted Avg BPM: 82.28284842345423
+
+Your heart is beating at 82.28284842345423 bpm.
+Press Enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_roiq_150x150/8_morning_normal_72.mp4
+
+BPM in this window[1-50]: 84.00000000000001
+Weighted Avg BPM: 83.42705860476703
+
+BPM in this window[1-100]: 78.0
+Weighted Avg BPM: 77.87691534693391
+
+BPM in this window[1-150]: 72.00000000000001
+Weighted Avg BPM: 72.15040429229266
+
+BPM in this window[1-200]: 69.00000000000001
+Weighted Avg BPM: 69.56852285866827
+
+BPM in this window[1-250]: 69.60000000000001
+Weighted Avg BPM: 69.31978850161059
+
+BPM in this window[1-300]: 70.0
+Weighted Avg BPM: 69.36705691159132
+
+Your heart is beating at 69.36705691159132 bpm.
+Press Enter to continue
+/home/rohitth007/Documents/IITM/IoT/10fps_roiq_150x150/9_afterdinner_normal_83.mp4
+
+BPM in this window[1-50]: 84.00000000000001
+Weighted Avg BPM: 84.67165428383446
+
+BPM in this window[1-100]: 78.0
+Weighted Avg BPM: 78.15755537841925
+
+BPM in this window[1-150]: 72.00000000000001
+Weighted Avg BPM: 70.40835808347157
+
+BPM in this window[1-200]: 72.0
+Weighted Avg BPM: 71.66795529423449
+
+BPM in this window[1-250]: 69.60000000000001
+Weighted Avg BPM: 70.20489266445443
+
+BPM in this window[1-300]: 70.0
+Weighted Avg BPM: 70.38193167547037
+
+Your heart is beating at 70.38193167547037 bpm.
+Press Enter to continue
